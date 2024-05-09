@@ -1,0 +1,36 @@
+h1 {
+  color: aliceblue;
+  background-color: brown;
+  text-align: center;
+  font-size: 64px;
+  width: 700px;
+  margin: auto;
+  margin-top: 30px;
+}
+.box {
+  background-color: rgb(68, 193, 68);
+  font-size: 24px;
+  width: 1000px;
+  margin: auto;
+  margin-top: 30px;
+  border: 1px solid blue;
+}
+.boz {
+  background-color: rgb(68, 193, 68);
+  font-size: 24px;
+  width: 1000px;
+  margin: auto;
+  margin-top: 30px;
+  border: 1px solid blue;
+}
+.ras {
+  border: 4px solid red;
+  padding: 20px;
+  width: 1300px;
+  margin: auto;
+  margin-top: 100px;
+  background-color: black;
+}
+body{
+background-color: green;
+}
